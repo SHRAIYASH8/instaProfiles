@@ -1,5 +1,5 @@
 This app is using useState & useRef hooks, also axios is used to get data for jokes & user profiles.
-Basically it will show some random joke with new users
+Basically it will show some random joke with new users added.
 
 https://instaprofiles.netlify.app/
 
